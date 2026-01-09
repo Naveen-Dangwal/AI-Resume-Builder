@@ -97,7 +97,7 @@ const LandingPage = () => {
                   alt="Aisaathi Logo" 
                   className="h-12 w-12 mr-3"
                 />
-                <h1 className="text-2xl font-bold text-violet-600">Aisaathi</h1>
+                <h1 className="text-2xl font-bold text-violet-600">AI Resume Builder</h1>
               </div>
             </div>
             
